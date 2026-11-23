@@ -68,6 +68,6 @@ This was a fun side project, so a few things are left rough on purpose:
 
 ## Credits
 
-Concept and art direction by **Muhammed Selim / ZeminMedia**.
+Concept and art direction by **Muhammed Selim**.
 Product visuals and scene videos were generated with AI (Google Gemini), then cut into frames for the scroll animation.
 The code was written with AI assistance (Claude).
